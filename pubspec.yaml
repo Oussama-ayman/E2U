@@ -182,9 +182,9 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/
-    - assets/images/anim/
+    - assets/images/anim/ # <--- هذا هو المسار الذي سبب الخطأ
     - assets/images/icons/
     - assets/json/
     - assets/lang/
     - assets/audio/
-    - assets/
+    - assets/ # <--- هذا المسار يغطي كل شيء، وهو مشكلة شائعة
