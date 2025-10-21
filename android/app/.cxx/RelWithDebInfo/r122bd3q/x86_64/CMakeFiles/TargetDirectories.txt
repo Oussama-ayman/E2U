@@ -1,0 +1,2 @@
+C:/Users/Administrator/Desktop/GeoMartProject/Customer/android/app/.cxx/RelWithDebInfo/r122bd3q/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/GeoMartProject/Customer/android/app/.cxx/RelWithDebInfo/r122bd3q/x86_64/CMakeFiles/rebuild_cache.dir

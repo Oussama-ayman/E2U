@@ -1,0 +1,2 @@
+/Users/ambrosetemidayobako/Desktop/Dev/mobile-apps/Fuodz/android/app/.cxx/Debug/4z11736r/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ambrosetemidayobako/Desktop/Dev/mobile-apps/Fuodz/android/app/.cxx/Debug/4z11736r/armeabi-v7a/CMakeFiles/rebuild_cache.dir

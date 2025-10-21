@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462277161339",
+    "project_id": "geomart-web",
+    "storage_bucket": "geomart-web.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462277161339:android:2ee25f5dc5fd4f2bda958e",
+        "android_client_info": {
+          "package_name": "com.geomart.nafiss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLq22w61pFBGzq71RpyAI7-mwHKzbzC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

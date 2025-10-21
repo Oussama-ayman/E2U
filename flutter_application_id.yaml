@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.geomart.nafiss"
+    name: "Geo Mart"
+  ios:
+    id: "com.geomart.nafiss"
+    name: "Geo Mart"
