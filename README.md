@@ -1,4 +1,4 @@
-# fuodz
+# E2U
 
 A new Flutter project.
 
